@@ -1,0 +1,20 @@
+header{
+    text-align: center;
+}
+input{
+    border-radius: 5px;
+    padding: 0.5em;
+}
+table,td,th{
+    border: 2px solid #55aaff;
+    border-collapse: collapse;
+    margin: 1em auto;
+    text-align: center;
+    padding: 1em;
+}
+table{
+    width: 70em;
+}
+td,th{
+    width: 50%;
+}
