@@ -1,11 +1,11 @@
 WIDGET = {
     CONFIG: {
-        "layout": 1,
-        "width": "450",
-        "height": "150",
+        "layout": 2,
+        "width": "230",
+        "height": "270",
         "background": 1,
         "dataColor": "FFFFFF",
         "borderRadius": 5,
-        "key": "hkD2qemNXo"
+        "key": "hRHz1ii0Yi"
     }
 }
